@@ -1,0 +1,49 @@
+Started at 2022-08-19T21:57:17
+
+[Twitter] Open File : ../data/interactions.txt
+
+
+RANDOM & NODE INDEXING
+start reading graph
+in
+edges : 41549232
+41549232 1963263820
+Counting Error
+given_nodes = 52579682
+edges = 41549232, positive = 0.703616%, negative 0.296384%
+
+size : 41549015
+Multi ..Started at 2022-08-20T01:32:27
+
+[Twitter] Open File : ../data/interactions.txt
+
+start reading graph
+in
+edges : 41508210
+41508210 1963263820
+Counting Error
+given_nodes = 52579682
+edges = 41508210, positive = 0.703621%, negative 0.296379%
+
+size : 41507993
+Multi ..
+
+Started at 2022-08-20T05:31:39
+
+[Twitter] Open File : ../data/interactions.txt
+
+Sample File Not Exists
+
+RANDOM & NODE INDEXING
+start reading graph
+in
+edges : 41549232
+41549232 1963263820
+Counting Error
+nodes = 78633
+edges = 41549232, positive = 0.703616%, negative 0.296384%
+
+size : 41549015
+Multi ..DONE
+7.46658e+06sec
+mail: No recipients specified
